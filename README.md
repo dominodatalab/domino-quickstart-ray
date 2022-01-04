@@ -47,7 +47,7 @@ Right now, you're reading the `README.md` file which is a great place to explain
 
 README files get shown on a project's overview page and, like all files, get automatically versioned for your convenience and time traveling needs. You can even embed images from the web or your project, for example `benefits.png`: ![Benefits](benefits.png)
 
-Want to share this project with others? Domino makes it easy for multiple people to collaborate on a project, or to share your projects publicly. [You can add collaborators to this project or adjust its visibility here.](settings#sharing)
+Want to share this project with others? Domino makes it easy for multiple people to collaborate on a project, or to share your projects publicly. [You can add collaborators to this project or adjust its visibility here.](https://docs.dominodatalab.com/en/latest/reference/projects/Sharing_and_collaboration.html)
 _____
 
 **Need some extra help?**
