@@ -45,7 +45,7 @@ The final notebook, **Model Creation and Training-DQN** involves creating a rein
 
 Right now, you're reading the `README.md` file which is a great place to explain what your project is all about.  We suggest every project have a README file -- it helps others onboard onto your project quickly and helps you remember what the point of your project was in the first place :)
 
-README files get shown on a project's overview page and, like all files, get automatically versioned for your convenience and time traveling needs. You can even embed images from the web or your project, for example `benefits.png`:
+README files get shown on a project's overview page and, like all files, get automatically versioned for your convenience and time traveling needs. You can even embed images from the web or your project, for example `benefits.png`: ![Benefits](benefits (1).png)
 
 Want to share this project with others? Domino makes it easy for multiple people to collaborate on a project, or to share your projects publicly. [You can add collaborators to this project or adjust its visibility here.](settings#sharing)
 _____
